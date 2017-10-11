@@ -1,1 +1,2 @@
-console.log("Hi");
+// SOURCE: https://github.com/HyperGamer27/Spark.js.git
+function main(arg){console.log(arg);};main("Hello World");
